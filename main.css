@@ -212,21 +212,21 @@ p {
 
 .offers__included-desc {
     display: inline;
-    vertical-align: top;
+    vertical-align: middle;
     width: 126px;
     margin-right: 14px;
 }
 
 .offers__included-data {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
     width: auto;
     margin-right: 11px;
 }
 
 .offers__included-meal {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
     width: auto;
     margin-right: 4px;
 } 
